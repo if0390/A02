@@ -2,9 +2,10 @@
 
 ## Part 1: Setting up git/webstorm/github
 
-### Step 1: Install Git
+### Step 1: Step 1: Install Git
 
-- Download Git from [https://git-scm.com/downloads](https://git-scm.com/downloads) and follow the installation instructions for your operating system.
+1. Download Git from the official website: [Git Downloads](https://git-scm.com/downloads).
+2. Follow the installation instructions for your operating system.
 
 ### Step 2: Create a GitHub Account
 
@@ -12,10 +13,9 @@
 
 ### Step 3: Download and Install WebStorm
 
-1. Go to the JetBrains website: [JetBrains](https://www.jetbrains.com/).
-2. Navigate to the WebStorm page.
-3. Download the WebStorm installer.
-4. Run the installer.
+1. Go to the JetBrains website: [JetBrains]([https://www.jetbrains.com/](https://www.jetbrains.com/webstorm/)).
+2. Download the WebStorm installer.
+3. Run the installer.
 
 ### Step 4: Set Up a Project in WebStorm
 
