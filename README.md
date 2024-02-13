@@ -13,7 +13,7 @@
 
 ### Step 3: Download and Install WebStorm
 
-1. Go to the JetBrains website: [JetBrains]([https://www.jetbrains.com/](https://www.jetbrains.com/webstorm/)).
+1. Go to the JetBrains website: [JetBrains](https://www.jetbrains.com/webstorm/).
 2. Download the WebStorm installer.
 3. Run the installer.
 
