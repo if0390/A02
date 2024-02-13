@@ -51,3 +51,4 @@
 
 - **WebStorm** [https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_user_interface_overview]
 - **Git** [https://docs.github.com/en/get-started/using-git/about-git]
+- **Glossary** [https://docs.github.com/en/get-started/learning-about-github/github-glossary]
