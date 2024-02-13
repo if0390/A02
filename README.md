@@ -1,5 +1,4 @@
 # A02
-# WebStorm Tutorial
 
 ## Part 1: Directions on Using WebStorm
 
