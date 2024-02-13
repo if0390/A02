@@ -9,7 +9,7 @@
 
 ### Step 2: Create a GitHub Account
 
-- Go to [https://github.com/](https://github.com/) and sign up for a new account.
+1. Go to [https://github.com/](https://github.com/) and sign up for a new account.
 
 ### Step 3: Download and Install WebStorm
 
