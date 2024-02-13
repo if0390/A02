@@ -7,22 +7,28 @@
 1. Download Git from the official website: [Git Downloads](https://git-scm.com/downloads).
 2. Follow the installation instructions for your operating system.
 
-### Step 2: Create a GitHub Account
+### Step 2: Configure Git
+
+1. Open a terminal.
+2. Enter your username as 'git config --global user.name "Your Name"'.
+3. Enter your email address: 'git config --global user.email "your.email@example.com"'.
+
+### Step 3: Create a GitHub Account
 
 1. Go to [https://github.com/](https://github.com/) and sign up for a new account.
 
-### Step 3: Download and Install WebStorm
+### Step 4: Download and Install WebStorm
 
 1. Go to the JetBrains website: [JetBrains](https://www.jetbrains.com/webstorm/).
 2. Download the WebStorm installer.
 3. Run the installer.
 
-### Step 4: Set Up a Project in WebStorm
+### Step 5: Set Up a Project in WebStorm
 
 1. Open WebStorm.
 2. Create a new project.
 
-### Step 5: Connect WebStorm to GitHub
+### Step 6: Connect WebStorm to GitHub
 
 1. Open your project in WebStorm.
 2. Go to "VCS" in the top menu.
